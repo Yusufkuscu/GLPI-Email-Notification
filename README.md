@@ -1,4 +1,4 @@
-# Proje Adı - GLPI E-posta Bildirim Uygulaması 🚀
+# GLPI E-posta Bildirim Uygulaması 🚀
 
 ## Proje Açıklaması 📝
 
