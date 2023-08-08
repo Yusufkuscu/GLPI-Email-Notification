@@ -16,7 +16,7 @@ Bu proje, staj sürecim boyunca geliştirdiğim bir uygulamadır. GLPI (Gestion 
 
 5. GLPI sistemine yeni bir çağrı eklendiğinde, uygulama otomatik olarak bu çağrıyı e-posta yoluyla kontrol edecek ve eğer çağrı varsa yeşil LED yanacak, yoksa kırmızı LED yanacak.
 
-![Yeşil LED](https://github.com/Yusufkuscu/GLPI-Email-Notification/assets/99915079/7245229e-4dbb-4e74-a402-bb24ad4e3c83)
+![Yeşil LED](https://github.com/Yusufkuscu/GLPI-Email-Notification/assets/99915079/c2f57020-ce2e-453e-a2e4-b358f4563c56)
 ![Kırmızı LED](https://github.com/Yusufkuscu/GLPI-Email-Notification/assets/99915079/cff24671-f2ab-4829-b1ad-faa960438a35)
 
 
